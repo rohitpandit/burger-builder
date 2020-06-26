@@ -1,12 +1,8 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
 
 function App() {
   return (
-    <div className="App">
-      <h1>My react app</h1>
-      <h2> Author: Rohit Pandit</h2>
+    <div>
     </div>
   );
 }
